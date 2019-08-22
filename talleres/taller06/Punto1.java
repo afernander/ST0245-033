@@ -2,7 +2,7 @@ import java.util.ArrayList;
 /**
  * Write a description of class Punto1 here.
  * 
- * @author (your name) 
+ * @author (Alejandro Fernandez - Nayibe Tatiana Velez) 
  * @version (a version number or a date)
  */
 public class Punto1
