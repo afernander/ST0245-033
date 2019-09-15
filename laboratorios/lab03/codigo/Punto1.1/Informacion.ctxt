@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Informacion
+comment1.params=archivo
+comment1.target=java.util.LinkedList\ guardar(java.lang.String)
+comment2.params=
+comment2.target=int\ menu()
+comment3.params=
+comment3.target=java.lang.String\ nombreE()
+comment4.params=
+comment4.target=java.lang.String\ semestre()
+comment5.params=
+comment5.target=java.lang.String\ curso()
+comment6.params=curso\ semestre\ lista
+comment6.target=void\ consulta1(java.lang.String,\ java.lang.String,\ java.util.LinkedList)
+comment7.params=nombreE\ semestre\ lista
+comment7.target=void\ consulta2(java.lang.String,\ java.lang.String,\ java.util.LinkedList)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
