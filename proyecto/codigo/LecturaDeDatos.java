@@ -35,14 +35,14 @@ public  class LecturaDeDatos{
                 cont++;
             }
         }
-        /*
+        
         for(int x=0;x<datos[1].length;x++){
         for(int y=0;y<datos.length;y++){
         System.out.print(" "+datos[y][x]);
         }
         System.out.println();
         }
-         */
+         
         return datos;
 
     }
