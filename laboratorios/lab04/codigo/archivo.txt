@@ -1,1 +1,24 @@
-Archivo adicional para permitir la creaci�n de carpetas
+Proyecto/
+├── [mauriciotoro 4.0K]  DataSets
+│   └── [mauriciotoro 252K]  treeEtc.txt
+├── [mauriciotoro 4.0K]  Plantillas
+│   ├── [mauriciotoro 463K]  ED1-Guia-Proyecto-Entrega.doc
+│   ├── [mauriciotoro 1.5M]  ED1-Plantilla-Eafit.pptx
+│   ├── [mauriciotoro 255K]  ejemplo-de-un-reporte-con-plantilla-ACM.pdf
+│   ├── [mauriciotoro 1.1M]  plantilla-ACM-en-Latex.zip
+│   ├── [mauriciotoro 1.2M]  plantilla-ACM-en-Word.doc
+│   └── [mauriciotoro 4.0K]  SIG Proceedings Template-Jan2015 Zip
+│       ├── [mauriciotoro 9.4K]  acmcopyright.sty
+│       ├── [mauriciotoro 144K]  acm-update.pdf
+│       ├── [mauriciotoro 336K]  flies.eps
+│       ├── [mauriciotoro 151K]  fly.eps
+│       ├── [mauriciotoro 3.4K]  rosette.eps
+│       ├── [mauriciotoro  65K]  sig-alternate-05-2015.cls
+│       ├── [mauriciotoro 124K]  sig-alternate-guide.docx
+│       ├── [mauriciotoro 572K]  sig-alternate-guide.pdf
+│       ├── [mauriciotoro 255K]  sig-alternate-sample.pdf
+│       ├── [mauriciotoro  26K]  sig-alternate-sample.tex
+│       └── [mauriciotoro 1.5K]  sigproc.bib
+└── [mauriciotoro 571K]  Proyecto Final ED1 Sistema-directorios Vr 2.0.pdf
+
+3 directories, 18 files
