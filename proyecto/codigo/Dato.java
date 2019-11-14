@@ -1,3 +1,8 @@
+
+
+/**
+ * Esta clase contiene la descripcion de los objetos para la lectura de los datos
+ */
 public class Dato{
 
     private double ph;
